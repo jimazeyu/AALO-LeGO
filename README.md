@@ -1,2 +1,2 @@
 # AALO-LeGO
-The code of AALO.
+Coming soon.
